@@ -21,5 +21,4 @@ untuk melakukan proses seleksi :
   - 4 untuk kriteria level
 - memasukkan nilai parameter p dan q
 
-# License
-made with :heart: from [Bayu](https://github.com/novalbayusetiawan) :laughing:
+
